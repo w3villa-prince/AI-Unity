@@ -6,6 +6,7 @@ TagManager:
   tags:
   - wp
   - AI
+  - Enemy
   layers:
   - Default
   - TransparentFX
